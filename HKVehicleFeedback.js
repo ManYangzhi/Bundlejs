@@ -1052,7 +1052,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     on: {
       "click": _vm.saveDidClick
     }
-  }, [_vm._v("保存")]), _c('text', {
+  }, [_vm._v("保存s")]), _c('text', {
     staticClass: ["txt-submit-normal"],
     class: [_vm.hasCancel ? '' : 'has-cancel-width'],
     on: {
